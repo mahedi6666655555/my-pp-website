@@ -1,0 +1,14 @@
+.cursor-pointer:hover {
+
+
+
+    background-color: red;
+    border: none;
+    border-radius: 8px;
+
+
+}.for-bg{
+    background-image: url(../images/bg1.jpg);
+    background-size: cover;
+    
+}
